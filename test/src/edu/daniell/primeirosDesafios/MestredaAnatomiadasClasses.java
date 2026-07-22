@@ -2,7 +2,7 @@ package edu.daniell.primeirosDesafios;
 
 public class MestredaAnatomiadasClasses {
 
-    public static void main(String [] args) {
+    public static void main(String[] args) {
 
         /* 
         Variables coding:

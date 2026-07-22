@@ -2,7 +2,7 @@ package edu.daniell.primeirosDesafios;
 
 public class VariaveiseMatematica {
 
-    public static void main (String [] args) {
+    public static void main (String[] args) {
 
         String produto = "Notebook";
         float preco = 4599.99f;
