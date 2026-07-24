@@ -1,4 +1,4 @@
-package edu.daniell.primeirosDesafios;
+package edu.daniell.challenge;
 
 public class MestredaAnatomiadasClasses {
 
